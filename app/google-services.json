@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080431591315",
+    "project_id": "gp-app-76594",
+    "storage_bucket": "gp-app-76594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080431591315:android:020dc4552c96ef6cf37266",
+        "android_client_info": {
+          "package_name": "com.example.gpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080431591315-ik6n3obb4fal3meutav6efn4dsncvfca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8ZdsUJqqH9JIbi5GGVQ6fDoOq7QUQ0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080431591315-ik6n3obb4fal3meutav6efn4dsncvfca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

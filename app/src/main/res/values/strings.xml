@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">G&amp;P App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scholar">Scholar</string>
+    <string name="company">Company</string>
+    <string name="resume">Resume</string>
+    <string name="setting">Setting</string>
+</resources>
